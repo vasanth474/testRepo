@@ -1,0 +1,4 @@
+function sayHai (name) {
+  return "Hello " +name+"!";
+}
+
